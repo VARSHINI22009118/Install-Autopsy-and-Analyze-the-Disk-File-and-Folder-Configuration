@@ -83,7 +83,8 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 
 ## Data Source Summary Report:
-![image](https://github.com/user-attachments/assets/150130e9-703c-483c-b7a3-0135665046c5)
+![Screenshot 2025-06-01 215625](https://github.com/user-attachments/assets/d4edcecc-beb4-43f3-b8da-81d0ab080cb4)
+
 
 
 ## RESULT:
